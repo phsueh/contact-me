@@ -15,5 +15,3 @@ A page containing a form with the following fields and corresponding front-end v
 - Email – valid email addresses
 - Zip code – US zip validation
 - US States – a drop down list of states
-
-### Prerequisites
